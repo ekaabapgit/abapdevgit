@@ -7,3 +7,4 @@ REPORT ZTEST_GIT.
 
 
 WRITE: / 'Hello GitHub'.
+WRITE: / 'Hello World'.

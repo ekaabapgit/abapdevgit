@@ -7,3 +7,4 @@ REPORT ZTEST_GIT2.
 
 write: / 'ehhh'.
 write: / 'what'.
+write:/ 'why'.

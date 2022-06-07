@@ -8,5 +8,4 @@ REPORT ZTEST_GIT2.
 write: / 'ehhh'.
 write: / 'what'.
 write:/ 'why'.
-write: /'line 4'.
-write:/ 'line 5'.
+WRITE: /'LINE BARU'.

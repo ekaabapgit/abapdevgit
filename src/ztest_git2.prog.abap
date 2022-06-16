@@ -9,3 +9,4 @@ write: / 'ehhh'.
 write: / 'what'.
 write:/ 'why'.
 WRITE: /'LINE BARU'.
+WRITE: /'Check auto merge'.
